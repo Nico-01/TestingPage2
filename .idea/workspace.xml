@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31c18046-52a7-4275-9e25-c28bd812fd2d" name="Default Changelist" comment="composer" />
+    <list default="true" id="31c18046-52a7-4275-9e25-c28bd812fd2d" name="Default Changelist" comment="composer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616557123579</updated>
       <workItem from="1616557124803" duration="1015000" />
-      <workItem from="1616638744904" duration="1196000" />
+      <workItem from="1616638744904" duration="3974000" />
     </task>
     <servers />
   </component>
@@ -52,13 +55,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1616639270257">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1616640010408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1616639270257" />
-    <state x="555" y="261" key="Github.ShareDialog" timestamp="1616639884661">
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1616640010408" />
+    <state x="555" y="261" key="Github.ShareDialog" timestamp="1616640036748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="555" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1616639884661" />
+    <state x="555" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1616640036748" />
+    <state x="183" y="8" key="SettingsEditor" timestamp="1616642654787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616642654787" />
   </component>
 </project>
